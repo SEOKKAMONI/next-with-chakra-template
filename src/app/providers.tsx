@@ -1,3 +1,5 @@
+'use client';
+
 import { type PropsWithChildren } from 'react';
 import { ChakraProvider, StyleProvider } from '@/providers';
 import { OverlayProvider } from '@toss/use-overlay';
